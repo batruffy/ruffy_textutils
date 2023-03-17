@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ruffy_textutils/static/css/main.e6c13ad2.css",
+    "main.js": "/ruffy_textutils/static/js/main.49c91c13.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ruffy_textutils/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ruffy_textutils/index.html",
+    "main.e6c13ad2.css.map": "/ruffy_textutils/static/css/main.e6c13ad2.css.map",
+    "main.49c91c13.js.map": "/ruffy_textutils/static/js/main.49c91c13.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ruffy_textutils/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.49c91c13.js"
+  ]
+}
